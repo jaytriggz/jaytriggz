@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaytriggz
 - 👀 I’m interested in ... Web development, Data Analysis 
-- 🌱 I’m currently learning ... python programming, SQL, excel,  React.js 
+- 🌱 I’m currently learning ... Java Programming, python programming, SQL, excel,  React.js 
 - 💞️ I’m looking to collaborate on ... anything 
 - 📫 How to reach me ... arotroy01@hotmail.com
 
