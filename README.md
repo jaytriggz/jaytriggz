@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jaytriggz
-- 👀 I’m interested in ... Fullstack Dev, Multimedia Journalism, Data Analysis 
+- 👋 Hi, I’m Dev Triggzz
+- 👀 I’m interested in ... Fullstack Dev, Data Analysis, Multimedia Journalism
 - 🌱 I’m currently learning ... Java Programming, frontend/Backend dev, python programming, SQL, excel 
-- 💞️ I’m looking to collaborate on ... anything 
+- 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ... arotroy01@hotmail.com
 
 <!---
