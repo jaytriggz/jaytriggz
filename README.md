@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dev Triggzz
 - 👀 I’m interested in ... Fullstack Dev, Data Analysis, Multimedia Journalism
-- 🌱 I’m currently learning ... Java Programming, frontend/Backend dev, python programming, SQL, excel 
+- 🌱 I’m currently learning ... Java Programming, Full-stack Development, Python programming, SQL, Data science 
 - 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ... arotroy01@hotmail.com
 
