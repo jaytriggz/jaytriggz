@@ -1,7 +1,4 @@
 
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Dev Triggzz </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -43,11 +40,5 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github.com/jaytriggz" />
-  
-</a>
-
 <br/>
 
