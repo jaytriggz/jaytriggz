@@ -51,13 +51,3 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Moi </h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://www.linkedin.com/in/jidearoyewun/"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://www.instagram.com/babajide_a/"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://mail.google.com/mail/u/0/#inbox"></a>
-</p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
