@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Mathematics at Babcock University.
 - 💼 &nbsp; Working as a Multimedia Journalist at NAN.
-- 🌱 &nbsp; Currently Learning ReactJs, Intermediate JavaScript, Data Analysis(SQL), Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Currently Learning ReactJs, Intermediate JavaScript, Data Analysis(SQL), DevOps, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Full-Stack Devs, Data Engineering, Big Data.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
