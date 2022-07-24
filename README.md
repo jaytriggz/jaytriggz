@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Triggz</h1>
 <h3 align="center">A seasoned and Independent Frontend Developer</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" /> </p>
 
 - 🔭 I’m currently working on **renaissance man (The Blog)**
 
