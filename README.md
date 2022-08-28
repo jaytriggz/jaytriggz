@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Triggz</h1>
 <h3 align="center">A seasoned and Independent Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/triggzz_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/triggzz_?logo=twitter&style=for-the-badge" alt="https://twitter.com/triggzz_" /></a> </p>
+
 
 - 🔭 I’m currently working on **renaissance man (The Blog)**
 
