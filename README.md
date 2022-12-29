@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **renaissance man (The Blog)**
 
-- 🌱 I’m currently learning **React.js, SQL**
+- 🌱 I’m currently learning **React.js, SQL, Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaytriggz](https://github.com/jaytriggz)
 
-- 💬 Ask me about **MERN Stack, REACT.JS**
+- 💬 Ask me about **Software Development, MERN Stack, REACT.JS**
 
 - 📫 How to reach me **arotroy01@hotmail.com**
 
