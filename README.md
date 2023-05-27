@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaytriggz](https://github.com/jaytriggz)
 
-- 💬 Ask me about **Software Development, MERN Stack, REACT.JS**
+- 💬 Ask me about **Software Development, MERN Stack, REACT.JS, AWS Cloud Computing**
 
 - 📫 How to reach me **arotroy01@hotmail.com**
 
