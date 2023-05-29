@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **renaissance man (The Blog)**
 
-- 🌱 I’m currently learning **React.js, SQL, AWS Cloud Computing, FullStack development**
+- 🌱 I’m currently learning **Frontend frameworks (React and Vue), SQL, Python for Visualization, AWS Cloud Computing, FullStack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaytriggz](https://github.com/jaytriggz)
 
