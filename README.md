@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dev Triggz</h1>
-<h3 align="center">A seasoned and Independent Frontend Developer</h3>
+<h3 align="center">A seasoned and Independent Fullstack Web Developer</h3>
 
 
 
-- 🔭 I’m currently working on **renaissance man (The Blog)**
+- 🔭 I’m currently working on **Portfolio25, Job Searching**
 
-- 🌱 I’m currently learning **Frontend frameworks (React and Vue), SQL, Python for Visualization, AWS Cloud Computing, FullStack development**
+- 🌱 I’m currently learning **Frontend frameworks (React and Vue), flutter, SQL, Shopify, AWS Cloud Computing, Big Data**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaytriggz](https://github.com/jaytriggz)
 
-- 💬 Ask me about **Software Development, MERN Stack, REACT.JS, AWS Cloud Computing**
+- 💬 Ask me about **Software Development, Full-Stack Web Development, MERN Stack, Shopify, Data, AWS Cloud Computing**
 
 - 📫 How to reach me **arotroy01@hotmail.com**
 
