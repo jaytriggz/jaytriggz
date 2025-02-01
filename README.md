@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Triggz</h1>
+<h1 align="center">Hello 👋, I'm Jide </h1>
 <h3 align="center">A seasoned and Independent Fullstack Web Developer</h3>
 
 
